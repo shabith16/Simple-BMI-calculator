@@ -1,0 +1,9 @@
+c:\users\hp\documents\visual studio 2012\Projects\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe.config
+c:\users\hp\documents\visual studio 2012\Projects\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe
+c:\users\hp\documents\visual studio 2012\Projects\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.pdb
+c:\users\hp\documents\visual studio 2012\Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2012\Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.Form1.resources
+c:\users\hp\documents\visual studio 2012\Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2012\Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2012\Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.exe
+c:\users\hp\documents\visual studio 2012\Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.pdb
